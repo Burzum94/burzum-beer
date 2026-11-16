@@ -1,2 +1,1 @@
-# burzum-beer
-**BURZUM BEER** — *Sitio web interactivo y landing page para GastroPub &amp;amp; Craft Brewery. Desarrollado con HTML5, CSS3 y JavaScript puro.*
+✈️ BURZUM BEER — GastroPub &amp; Craft Brewery Repositorio oficial del frontend web para \*\*BURZUM BEER\*\*, un concepto de cervecería artesanal y GastroPub inspirado en la aviación militar de época y la cultura del Rock &amp; Metal. \*\*Tecnologías:\*\* HTML5, CSS3, JavaScript (ES6+), Font Awesome, Google Fonts.
